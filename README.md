@@ -1,7 +1,8 @@
-*Real-Time Object Detector with YOLOv4 and OpenCV*
+**Real-Time Object Detector with YOLOv4 and OpenCV**
 This project is a real-time object detection application that uses your computer's webcam to identify objects in the video feed. It leverages the power of OpenCV and the YOLOv4-tiny model to draw bounding boxes and labels around detected objects.
 
-(Suggestion: Replace the image above with a screenshot or a GIF of your project in action!)
+<img width="478" height="539" alt="Detection" src="https://github.com/user-attachments/assets/d244c4f5-3dca-4215-b13d-a1f2165601ce" />
+
 
 Features
 Real-Time Detection: Identifies objects instantly from a live webcam feed.
